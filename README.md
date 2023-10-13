@@ -152,7 +152,7 @@ Now the project is running at `http://localhost:8000` and your routes is:
 For detailed explanation on how project work, read the [Django Docs](https://docs.djangoproject.com/en/1.11/) and [MySQLDB Docs](https://dev.mysql.com/doc/)
 
 ## Developer
-This project made by [Osama Mohamed](https://www.facebook.com/osama.mohamed.ms)
+This project made by [Osama Mohamed](https://www.linkedin.com/in/osama-mohamed-ms/)
 
 ## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT)
